@@ -1,2 +1,1 @@
-# Predicting_illness_serverity
-What are the risk factors associated with the severity of illness from Covid-19 infection? For example, profile of patients and lifestyle, social, co-morbidities, genetics, viral strain, etc. influencers – how do these affect the probability of requiring hospitalization, ICU, ventilator, mortality?  How does risk vary with healthcare professionals? What is the impact of availability &amp; implementation of PPE on their risk?
+
